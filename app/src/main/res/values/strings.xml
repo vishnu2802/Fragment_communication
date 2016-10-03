@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment_communication</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click">Enter the value</string>
+    <string name="check">check</string>
+</resources>
